@@ -18,7 +18,7 @@ interface Episode {
     title: string;
     thumbnail: string;
     members: string;
-    duration: string;
+    duration: number;
     durationAsString: string;
     url: string;
     publishedAt: string;
